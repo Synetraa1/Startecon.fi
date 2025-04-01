@@ -1,4 +1,4 @@
 # Startecon.fi
 The home page for Startecon Oy
 
-# More Details Coming Soon
+# More Details about the project coming Soon
