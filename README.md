@@ -9,16 +9,16 @@ Responsive Design: Works seamlessly across desktop and mobile devices
 
 # Screenshots
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a96e5ec-6c66-425a-82d2-dbec3fca6f1b" alt="Karpon Home" width="700"/>
-  <p><em>Karpon Landing Page</em></p>
-  <img src="https://github.com/user-attachments/assets/e8642100-c51a-442b-b382-4a58abfc6c09" alt="Karpon Dashboard" width="700"/>
-  <p><em>Interactive Dashboard</em></p>
-  <img src="https://github.com/user-attachments/assets/cc837615-48fa-463c-bc53-bb3c401b4cec" alt="Karpon Results" width="700"/>
-  <p><em>Detailed Carbon Analysis</em></p>
-  <img src="https://github.com/user-attachments/assets/3ef1776f-9f33-4877-9c33-bcd5015adbf4" alt="Karpon Recommendations" width="700"/>
-  <p><em>Personalized Recommendations</em></p>
-  <img src="https://github.com/user-attachments/assets/5496e39c-0b86-4be0-bf56-6f7c4cc4d398" alt="Karpon Language Selection" width="200"/>
-  <p><em>Language Selection Interface</em></p>
+  <img src="https://github.com/user-attachments/assets/afcfbb08-f511-4dc4-aac1-7b5de7980f92" alt="Startecon Landing" width="700"/>
+  <p><em>Startecon Landing Page</em></p>
+    <img src="https://github.com/user-attachments/assets/d593b790-6679-4f61-a43f-c98781493825" alt="Startecon Services" width="700"/>
+  <p><em>Startecon Services</em></p>
+  <img src="https://github.com/user-attachments/assets/58ac5d58-bfb9-401c-80f3-09fdf8449103" alt="Startecon technology" width="700"/>
+  <p><em>Startecon offered technologies</em></p>
+  <img src="https://github.com/user-attachments/assets/95a6e33a-1845-4585-87a4-6b6021035d69" alt="Startecon technology mouseover" width="700"/>
+  <p><em>Startecon technologies mousedover</em></p>
+  <img src="https://github.com/user-attachments/assets/c0858d1e-f34e-4551-8459-453f44b52ab2" alt="Startecon functioning contact form" width="700"/>
+  <p><em>Functioning contact form</em></p>
 </div>
 
 
